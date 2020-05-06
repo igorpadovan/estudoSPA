@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "estudoSPA"
+    }
+  },
+  "defaultProject": "estudoSPA",
+  "cli": {
+    "analytics": "f863a3b0-ffac-459f-89b9-6246ae67dca3"
+  }
 }
